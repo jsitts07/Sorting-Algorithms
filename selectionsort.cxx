@@ -1,4 +1,4 @@
-// FILE: select.cxx
+// FILE: selectionsort.cxx
 
 #include <algorithm>  
 #include <cstdlib>    
