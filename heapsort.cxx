@@ -1,9 +1,9 @@
 // FILE: heapsort.cxx
 
 
-#include <algorithm>   // Provides swap
-#include <cstdlib>     // Provides EXIT_SUCCESS, size_t
-#include <iostream>    // Provides cout and cin
+#include <algorithm>   
+#include <cstdlib>     
+#include <iostream>    
 using namespace std;
 
 // PROTOTYPES of the functions used in this test program:
