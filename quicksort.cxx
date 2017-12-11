@@ -1,4 +1,4 @@
-// FILE: quick.cxx
+// FILE: quicksort.cxx
 
 #include <algorithm>  
 #include <cstdlib>    
