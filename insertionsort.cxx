@@ -1,11 +1,11 @@
-// FILE: insert.cxx
+// FILE: insertionsort.cxx
 
 #include <algorithm>  
 #include <cstdlib>    
 #include <iostream>   
 using namespace std;
 
-// PROTOTYPE of the function used in this test program:
+// PROTOTYPE of the function used in the insertionsort.cxx program:
 void insertionsort(int data[ ], size_t n);
 
 int main( )
