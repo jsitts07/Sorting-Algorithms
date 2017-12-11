@@ -1,10 +1,10 @@
-// FILE: merge.cxx
+// FILE: mergesort.cxx
 
 #include <cstdlib>    
 #include <iostream>   
 using namespace std;
 
-// PROTOTYPES of the functions used in this test program:
+// PROTOTYPES of the functions used in mergesort program:
 void mergesort(int data[ ], size_t n);
 
 void merge(int data[ ], size_t n1, size_t n2);
